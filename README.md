@@ -23,6 +23,7 @@
 | -m   | Start  Method Name |
 
 ## Environment&Needed 
+Built on windows10. Not tested on Linux.
 
 1. python3.7.6
 2. MySQL&SqlAlchemy
