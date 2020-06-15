@@ -26,7 +26,7 @@ It's used to track ways of function call in an apk and will generate a flow char
 
 | Args | Functions               |
 | ---- | ----------------------- |
-| -f   | File Location           |
+| -f   | Smali File Location     |
 | --db | Generated Database Name |
 | -s   | Start Class Name        |
 | -o   | Output Location         |
